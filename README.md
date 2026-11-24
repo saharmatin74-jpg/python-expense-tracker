@@ -65,7 +65,7 @@ The application helps users manage their daily expenses, monitor spending habits
 1. Clone the repository:
 
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   git clone https://github.com/saharmatin74-jpg/python-expense-tracker.git
    ```
 
 2. Navigate to the project folder:
